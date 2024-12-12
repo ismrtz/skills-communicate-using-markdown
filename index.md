@@ -3,3 +3,5 @@
 ```javascript
 const hello = 'hello'
 ```
+- [ ] Write clean code
+- [ ] Write good test
